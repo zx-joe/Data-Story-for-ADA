@@ -4,6 +4,8 @@ title: Descriptive statistics
 author: How the data looks like
 ---
 
+First, we've done some simple descriptive statistical analysis on the two datasets.
+
 ### Relation between Amazon rating and TMDB rating
 
 In the two datasets(Amazon and TMDB), we have two different ratings for a certain movie. One is from Amazon reviewers, which is a rating from 1 to 5 given on the movie products from Amazon. The other is from TMDB users, who usually should be movie fans who give a rating from 1 to 10 to the movies. What is the relation between these two ratings? We compared the two average ratings on each movie and made a scatter plot:
