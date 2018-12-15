@@ -54,6 +54,7 @@ h2 {
 }
 
 h3 {
+  color: #2a76e8;
   font-size: 18px;
 }
 
@@ -220,7 +221,7 @@ figure figcaption {
 article img {
   margin-bottom: 10px;
 }
-
+/*
 article img {
   width: 100%;
   height: auto;
