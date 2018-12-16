@@ -6,7 +6,7 @@ author: How the data looks like
 To make a hit movie,various features are deserved for detailed analysis, both numerical and nonnumerical values. In this part, our aim is to get intuitive relations between Amazon rating and each potential feature.
 
 ### Relation between Amazon Rating and Genres
-When making movies, in addition to simple numbers like budget and revenue, nonnumerical values are also informative, for example, the genres of movies. In typical years , specific genres of movie tend to lead a fashion, and greatly affect the review, rating and other forms of evaluations towards a film. As master students in area of science and technology, interesting science fiction movies will always attract us, but we won't have a chance to make a review on romance movie since we only fall in love with computers. 
+When making movies, in addition to simple numbers like budget and revenue, nonnumerical values are also informative, for example, the genres of movies. In typical years , specific genres of movie tend to lead a fashion, and greatly affect the review, rating and other forms of evaluations towards a film. As master students in area of science and technology, interesting science fiction movies will always attract us, but we won't have a chance to make a review on romance movie since computer is all we love. 
 
 <iframe src="https://plot.ly/~zx_haowan/10/evoluation-of-genres-through-years/" width="100%" height="400px"></iframe>
 
