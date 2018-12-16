@@ -20,14 +20,13 @@ For the project, the datasets we analyse are as follows:
 
 - [Amazon reviews dataset](http://jmcauley.ucsd.edu/data/amazon/index.html) contains totally 142.8 million product reviews (ratings, text, votes) and related metadata from Amazon. Among the huge data, we mainly use the 'Movies and TV' part for the inplementation of our ideas.
 
-- [TMDB movie dataset](https://www.kaggle.com/tmdb/tmdb-movie-metadata) is a dataset we find in kaggle. It contains metadata on thousands of movies, including the plot, cast, crew, budget, vote, revenues, etc.
+- [TMDB movie dataset](https://www.kaggle.com/tmdb/tmdb-movie-metadata) is a dataset we find on Kaggle. It contains metadata on thousands of movies, including the plot, cast, crew, budget, vote, revenues, etc.
 
 ### Research questions
 
 We'd like to answer these questions about movies and Amazon reviews:
 
 - What is the trend and evolution of movie ratings according to Amazon?
-- What are the features of helpful reviews of a movie?
 - What is the correlation between TMDB vote and Amazon reviews?
 - Do good reviews and ratings lead to high revenues?
 - What are the factors and features that affect the ratings and sales of movies?

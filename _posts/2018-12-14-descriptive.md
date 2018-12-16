@@ -52,8 +52,8 @@ We are also interested in how budget and revenue of a movie correlates with its 
 
 ![budget-revenue-rating](img/descriptive/budget-revenue-rating.png)
 
-Do high budgets correlates with high ratings? No. There is a very weak negative correlation between budget and rating, so spending a lot of money doesn't always makes a high-rating movie.
+Do high budgets correlate with high ratings? No. There is a very weak negative correlation between budget and rating, so spending a lot of money doesn't always makes a high-rating movie.
 
-Do high revenues correlates with high ratings? Not really. The positive correlation is rather weak. So we can't tell if a highest grossing movie can get good reputation.
+Do high revenues correlate with high ratings? Not really. The positive correlation is rather weak. So we can't tell if a highest grossing movie can get good reputation.
 
 And how about the relation between budgets and revenues? We noticed a moderate positive correlation between these two factors. Maybe movies are a kind of investment where you are able to get high returns with high budgets.

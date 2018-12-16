@@ -3,9 +3,6 @@
 - title: Data story
   href: "/"
   external: true
-- title: and some other stuff
-  href: "/blog/page2/"
-  external: true
 - title: Github Repo
   href: "https://github.com/catJeff/ada-movie-analysis"
   external: true
