@@ -8,7 +8,7 @@ To make a hit movie,various features are deserved for detailed analysis, both nu
 ### Relation between Amazon Rating and Genres
 When making movies, in addition to simple numbers like budget and revenue, nonnumerical values are also informative, for example, the genres of movies. In typical years , specific genres of movie tend to lead a fashion, and greatly affect the review, rating and other forms of evaluations towards a film. As master students in area of science and technology, interesting science fiction movies will always attract us, but we won't have a chance to make a review on romance movie since all we need to love is data. 
 
-<iframe src="https://plot.ly/~zx_haowan/10/evoluation-of-genres-through-years/" width="100%" height="400px"></iframe>
+<iframe src="https://plot.ly/~zx_haowan/10/evoluation-of-genres-through-years/" width="100%" height="700px"></iframe>
 
 Drama has always been a leading trend in history, followed by comedy, and little attention is paid to foreign movies. The trend of other genres have been fluctuating through time and markets of movies for that are usually changing. Intuitively, a genre will affect the rating and review length of a movie since a hot type will attract more people and arouse their thoughts for more review texts, so average rating and review length of each genre will be analyzed.
 <iframe src="https://plot.ly/~zx_haowan/18/average-rating-and-average-length-of-review-in-all-genres/" width="100%" height="400px"></iframe>
